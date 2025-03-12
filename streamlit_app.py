@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title
-st.title('My New Streamlit App')
+st.title('My New Streamlit App!')
 
 # Text
 st.write('Welcome to my new app!')
